@@ -1,0 +1,27 @@
+Production
+-------------
+
+ip address - 159.122.7.165
+
+UserName   - root
+
+Password   - Jg4sCp7N
+
+account no - 1369931
+
+phpmyadmin - F6AlpjFdW1GPD5TZ
+
+phpmyadmin-https://www.fairdeal.games/SecureRecord/
+
+--------------------------------------------
+
+Upgrade php latest version   - http://www.techoism.com/how-to-upgrade-php-version-5-4-to-5-6-on-centosrhel/
+
+upgrade mariadb and mysql latest version - https://linuxhostsupport.com/blog/how-to-upgrade-mariadb-on-centos-7/
+
+phpmyadmin	- https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-with-apache-on-a-centos-7-server
+
+
+$2y$10$fUvgZZhGRKQujKAot./C3OeQvlYdSN78HhaYeV.8RxjK4PmLsa2.e
+
+autocomplete="off" required
